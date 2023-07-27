@@ -12,11 +12,11 @@ const Header = () => {
       <div className="wrapper">
         <div className="left">
           <div className="item">
-            <img src="/img/en.png" alt="" />
+            <img src="/img/tn.png" alt="" />
             <KeyboardArrowDownIcon />
           </div>
           <div className="item">
-            <span>USD</span>
+            <span>TND</span>
             <KeyboardArrowDownIcon />
           </div>
           <div className="item">
